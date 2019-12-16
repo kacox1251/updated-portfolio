@@ -1,0 +1,101 @@
+body {
+    background-image: url(../images/papyrus.png);
+}
+
+.navbar {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    background: #ffffff;
+    border: #cccccc;
+    width: 100%;
+    height: 70px;
+    position: relative;
+    margin: 20px;
+}
+
+.navbar-brand {
+    background: #4aaaa5;
+    color: #ffffff;
+    height: 100%;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+hr {
+    color: #afc3df;
+    width: 950px;
+}
+
+.display-4 {
+    padding: 10px;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.rounded {
+    padding: 10px;
+}
+
+.lead {
+    padding: 10px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.row {
+    margin: 20px;
+}
+
+.offset-md-3 {
+    background: #ffffff;
+}
+
+#name {
+    background: #4aaaa5;
+    position: absolute;
+    bottom: 0;
+    left: 20%;
+    color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #afc3df;
+}
+
+.tile {
+    width: 200px;
+    position: relative;
+}
+
+.img-fluid {
+    width: 200px;
+    height: 200px;
+}
+
+.tile-title {
+    width: 200px;
+    background: #4aaaa5;
+    position: absolute;
+    bottom: 10px;
+    left: 15px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+label {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.btn-info {
+    background: #4aaaa5;
+    border: #4aaaa5;
+}
+
+footer {
+    background: #666666;
+    text-align: center;
+}
