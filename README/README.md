@@ -5,8 +5,7 @@
 
 ## Description
 
-This is the password generator for the unit8 homework.
-for this homework I needed to combine HTML, CSS, and JS. This project demonstrates my skills using Javascript. Javascript really brings webpages to life. It feels like half of the time I understand JS and can accomplish a lot. The other half of the time it is really hard for me to figure out why things aren't working. I felt like I was on the right path with this project and when it came down to it the characters for the password weren't generating like they were supposed to.
+This is my complete personal portfolio!
 
 
 ## Installation
@@ -17,7 +16,7 @@ You can also see the live site by following the link to https://kacox1251.github
 
 ## Usage
 
-On this page you can see a box that says "your secure password, and two buttons that say "Generate Password" and "Copy to Clipboard". Clicking "Generate Password" will bring up a few prompts. The first prompt will ask what length you want your password to be, any number between 8 and 128 is acceptable. Next it will ask you if you want to add capital letters, lower case letters, special characters, or numbers. You have to choose at least one. After that your password will generate and it will be shown in the box that said "your secure password." If you want to copy the password to your clipboard then click the "copy to clipboard" button.
+On this page you can see all of my completed works on the "Portfolio" page, learn about me and see my skills on the "About Me" page, and view my contact information on the "Contact" page.
 
 ## Credits
 
